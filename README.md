@@ -157,11 +157,6 @@ osTicket should now be installed. Now it is time to clean up. Delete: C:\inetpub
 <img src="https://i.imgur.com/F4kRIVR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/0EiIP7r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-<p>
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php osTicket installation is completed!
 </p>
 <p>
